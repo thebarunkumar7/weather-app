@@ -1,7 +1,7 @@
 <h1 align="center">Weather App</h1>
 
 <p align="center">
-  <img src="./assets/weather_app.svg" alt="Weather App" width="700">
+  <img src="./assets/weather_app.svg" alt="Weather App" width="400">
 </p>
 
 
